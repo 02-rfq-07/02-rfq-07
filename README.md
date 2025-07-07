@@ -1,6 +1,6 @@
 👋 Hi, I’m @02-rfq-07
 
-👀 I’m interested in software development, artificial intelligence, cloud computing, and data analytics.
+👀 I’m interested in software development, machine learning, cloud computing, and data analytics.
 
 🌱 I’m currently learning more about machine learning algorithms, cloud infrastructure, and advanced Python programming.
 
